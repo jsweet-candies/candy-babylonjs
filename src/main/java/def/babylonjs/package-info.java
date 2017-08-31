@@ -1,0 +1,3 @@
+/** This package contains the def.babylonjs library (source: Definitely Typed). */
+@jsweet.lang.Root(dependencies={"def.js","def.dom"}, mixins={def.babylonjs.Window.class,def.babylonjs.WebGLRenderingContext.class,def.babylonjs.Document.class,def.babylonjs.HTMLCanvasElement.class,def.babylonjs.CanvasRenderingContext2D.class,def.babylonjs.WebGLTexture.class,def.babylonjs.WebGLBuffer.class,def.babylonjs.MouseEvent.class,def.babylonjs.Navigator.class,def.babylonjs.HTMLVideoElement.class,def.babylonjs.Screen.class,def.babylonjs.HTMLMediaElement.class,def.babylonjs.Navigator.class})
+package def.babylonjs;
