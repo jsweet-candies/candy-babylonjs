@@ -28,7 +28,7 @@ Add the following dependency to the ``pom.xml``:
 
 ```xml
 <dependency>
-	<groupId>org.jsweet.candies.ext</groupId>
+	<groupId>org.jsweet.candies</groupId>
 	<artifactId>babylonjs</artifactId>
 	<version>3.0.7</version>
 </dependency>
