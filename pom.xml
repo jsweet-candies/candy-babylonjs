@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jsweet.candies</groupId>
     <artifactId>babylonjs</artifactId>
-    <version>3.0.7</version>
+    <version>3.0.7-20171101</version>
     <properties>
         <jsweet.transpiler.version>2.0.0</jsweet.transpiler.version>
         <skipJavadoc>true</skipJavadoc>
@@ -38,7 +38,7 @@
         <dependency>
             <groupId>org.jsweet</groupId>
             <artifactId>jsweet-core</artifactId>
-            <version>6-SNAPSHOT</version>
+            <version>5-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
